@@ -1,1 +1,1 @@
-Snapshots of low density hexagonal configurations.
+Snapshots of 2D low density hexagonal configurations.
